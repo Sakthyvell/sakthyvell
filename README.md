@@ -10,7 +10,7 @@
 <div style="padding:25px 0; font-size:24px; font-family: 'Quicksand', sans-serif;" align="center">I am a software
     engineer who is based in Kuala Lumpur, Malaysia. I am also pursuing my Masters conducting research on image
     segmentation methodologies on psychological projective drawings. </div>
-
+<br><br>
 <div>
     <p style="padding:25px 0; font-size:18px; font-family: 'Quicksand', sans-serif;" align="center">
         <i>Take a look at my repositories and let's get in touch!</i></p>
